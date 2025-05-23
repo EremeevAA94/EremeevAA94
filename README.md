@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm i'm Aleksey</h1>
+<h1 align="center">Hi 👋, I'm Aleksey</h1>
 <h3 align="center">Junior QA-engineer and Frontend-developer</h3>
 
 - 🔭 I’m currently working on **https://github.com/EremeevAA94/Portfolio**
